@@ -1,4 +1,7 @@
 {
   "item.tutorial-mod.green_rock": "Green Rock",
-  "item.tutorial-mod.refined_green": "Refined Green"
+  "item.tutorial-mod.refined_green": "Refined Green",
+
+  "item.tutorial-mod.green_rock_block": "Green Rock Block",
+  "item.tutorial-mod.refined_green_block": "refined_green_block"
 }
